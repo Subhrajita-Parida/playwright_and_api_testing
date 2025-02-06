@@ -1,0 +1,1 @@
+Dialog message: Do you confirm action?

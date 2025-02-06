@@ -1,0 +1,54 @@
+{
+    "validInputs":{
+    "name":"varsha",
+    "email":"varsha@gmail.com",
+    "adress":"Hyderabad, telengana, 500081",
+    "permanentAdress":"Puri, Odisha, 752118",
+    "longAddress":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+
+    "invalidInputs":{
+        
+    "fullName":"Subhrajita Parida@345",
+    "mail":"owiueydfgvbhj",
+    "current":"Hyderabad Hyderabad Hyderabad Hyderabad Hyderabad Hyderabad Hyderabad Hyderabad Hyderabad Hyderabad Hyderabad Hyderabad",
+    "present":"Puri, Hyderabad, HyderabadHyderabadHyderabad Hyderabad Hyderabad Hyderabad Hyderabad Hyderabad"
+        
+    },
+
+    "webTables":{
+        "name":"Subhrajita",
+        "lastName":"parida",
+        "email":"varsha@gmail.com",
+        "age":"22",
+        "salary":"22000",
+        "department":"QA"
+
+    },
+    "timeout":{
+        "smallTimeout":500,
+        "normalTimeout":1000,
+        "mediumTimeout":4500,
+        "bigTimeout":6000
+    },
+    "alertNewWindow":{
+        "simpleAlertMessage":"You clicked a button",
+        "url":"https://demoqa.com/sample",
+        "timedAlertMessage":"This alert appeared after 5 seconds",
+        "confirmBoxMessage":"Do you confirm action?",
+        "promptAlertMessage":"Please enter your name",
+        "promptBoxMessage":"Varsha"
+    },
+    "elementSection":{
+        "name":"sophia"
+    },
+    "frame":{
+        "parentData":"Parent frame",
+        "childData":"Child Iframe"
+    },
+    "dropData":{
+        "dropMessage":"Dropped"
+    }
+}
+
+

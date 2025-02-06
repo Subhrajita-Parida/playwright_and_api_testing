@@ -1,0 +1,2 @@
+New Tab Title: 
+New Tab Content: This is a sample page
